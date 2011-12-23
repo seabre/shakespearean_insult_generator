@@ -1,6 +1,10 @@
 body{
-
+  color: White;
   background-color:BurlyWood;
+  background-image:url('../images/william-shakespeare.png');  
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-position:center; 
 
 }
 
