@@ -1,6 +1,7 @@
 body{
 
   background-color:BurlyWood;
+  color:White;
   background-image:url('../images/william-shakespeare.png');
   background-repeat:no-repeat;
   background-attachment:fixed;
@@ -11,22 +12,14 @@ body{
 
 #insult {
 
-  fontfamily: 'Pinyon Script', cursive;
-
-  fontsize:150%;
-
+  font-family: 'Pinyon Script', cursive;
+  font-size:150%;
   width:700px;
-
   height:200px;
-
   position:absolute;
-
   left:50%;
-
   top:50%;
-
-  margin:100px 0 0 360px;
-
-  textalign:center;
+  margin:-100px 0 0 -360px;
+  text-align:center;
 
 }
